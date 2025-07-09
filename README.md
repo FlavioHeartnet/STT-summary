@@ -123,6 +123,3 @@ Após a execução bem-sucedida, dois novos arquivos serão criados no mesmo dir
 1.  **`nome_do_audio_transcription.txt`**: Contém a transcrição completa do áudio.
 2.  **`nome_do_audio_summary.txt`**: Contém o resumo dos tópicos principais gerado pela API Gemini.
 
-## 📝 Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
