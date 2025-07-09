@@ -79,7 +79,7 @@ openai-whisper
 google-generativeai
 python-dotenv
 pydub
-pyaudioop
+audioop-lts
 ```
 
 **4. Configure sua Chave de API**
