@@ -63,7 +63,7 @@ class AudioProcessingPipeline:
             summary_text = self.summarizer.summarize(transcribed_text)
 
             # Step 4: Save the summary
-            summary_path = f"output_texts/{base_output_path}_summary.txt"
+            summary_path = f"{base_output_path}_summary.txt"
             self.file_writer.write(summary_text, summary_path)
 
             print("\n--- Pipeline finished successfully! ---")
